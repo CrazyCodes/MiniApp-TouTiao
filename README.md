@@ -1,5 +1,7 @@
 WeiXin Small Program - Information Apps
 ------
+<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/index.gif">
+------
 Project Dir
 ------
 ```shell
