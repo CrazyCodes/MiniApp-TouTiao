@@ -8,3 +8,15 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+.display_none{
+  display: none;
+}
+.display_block{
+  display: block;
+}
+.width_auto{
+  width: 100%;
+}
+.height_auto{
+  height:100%;
+}

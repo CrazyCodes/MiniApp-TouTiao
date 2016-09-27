@@ -1,6 +1,8 @@
-<include src="/template/information/loads.wxml" />
-<include src="/template/information/search.wxml"/>
-<include src="/template/information/index/figure.wxml"/>
+<import src="/template/information/loads.wxml" />
+<template is="loads" data="{{hidden:hid}}"/>
+
+<import src="/template/information/index/figure.wxml"/>
+<template is="figure" data="{{display:dis}}"/>
 
 <view class="menu">
     <scroll-view class="scroll-view_H" scroll-x="true" >

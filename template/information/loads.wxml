@@ -1,3 +1,5 @@
-<loading hidden="{{hidden}}" bindchange="loadingChange">
-    加载中...
-</loading>
+<template name="loads">
+    <loading hidden="{{hidden}}">
+        加载中...
+    </loading>
+</template>

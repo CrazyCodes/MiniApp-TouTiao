@@ -1,3 +1,5 @@
-<view class="start" style="display:{{dis}}">
-    <image src="/images/start.png" style="width:100%;height:100%;"></image>
-</view>
+<template name="figure">
+    <view class="start {{display}}">
+        <image src="/images/start.png" class="width_auto height_auto"></image>
+    </view>
+</template>

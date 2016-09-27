@@ -9,7 +9,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#3080c0",
-    "navigationBarTitleText": "CrazyCodes",
+    "navigationBarTitleText": "餐饮咖 « 资讯",
     "navigationBarTextStyle":"white",
     "enablePullDownRefresh":"true"
   },
