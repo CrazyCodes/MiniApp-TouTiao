@@ -1,0 +1,4 @@
+<progress percent="100" active />
+<loading bindchange="loadingChange">
+    加载中...
+  </loading>

@@ -1,0 +1,9 @@
+page{
+    background: #fcfcfc;
+
+}
+.start_img{
+    width: 100%;
+    height: 600px;
+}
+

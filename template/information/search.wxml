@@ -1,0 +1,4 @@
+<view class="header">
+    <image src="/images/logo.png" class="logo"></image>
+    <input class="search_input" placeholder="搜你想要的"/>
+</view>

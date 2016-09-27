@@ -1,0 +1,61 @@
+<include src="/template/information/loads.wxml" />
+<include src="/template/information/search.wxml"/>
+<include src="/template/information/index/figure.wxml"/>
+
+<view class="menu">
+    <scroll-view class="scroll-view_H" scroll-x="true" >
+        <view id="{{menu_id}}" bindtap="click_menu" wx:for="{{menu}}" wx:for-index="menu_id" wx:for-item="item" class="nav_font">
+            <block wx:if="{{menu_id == menuStatic}}"><text class="nav_hover">{{item}}</text></block>
+            <block wx:else>{{item}}</block>
+        </view> 
+    </scroll-view>
+    <view class="add_menu">
+        <image src="/images/swdw.png"></image>
+    </view>
+</view>
+
+<view class="swiper">
+    <progress percent="100" stroke-width="2" active color="#3080c0"/>
+    <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+        <block wx:for="{{imgUrls}}">
+            <swiper-item>
+                <image src="{{item}}" class="slide-image" height="150"/>
+            </swiper-item>
+        </block>
+    </swiper>
+</view>
+
+<view class="news_content" id="1" catchtap="detail">
+    <view class="news_content_left">
+      <view class="news_content_left_top">
+          <view class="text_top">岳云鹏微博发声支持师父郭德纲：我没教过学费</view>
+      </view>
+      <view class="news_content_left_but">
+          <image src="/images/pic.jpg" class="pic"></image>
+          <text>海外网</text>
+          <text style="margin-left:10px;">281条评论</text>
+          <text style="margin-left:10px;">10分钟前</text>
+      </view>
+    </view>
+    <view class="news_content_right">
+        <image src="http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg"></image>
+    </view>
+</view>
+
+<view class="news_content" id="2" catchtap="detail">
+    <view class="news_content_right news_content-left">
+        <image src="http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg"></image>
+    </view>
+    <view class="news_content_left news_content-right">
+      <view class="news_content_left_top">
+          <view class="text_top">岳云鹏微博发声支持师父郭德纲：我没教过学费</view>
+      </view>
+      <view class="news_content_left_but">
+          <image src="/images/pic.jpg" class="pic"></image>
+          <text>海外网</text>
+          <text style="margin-left:10px;">281条评论</text>
+          <text style="margin-left:10px;">10分钟前</text>
+      </view>
+    </view>
+    
+</view>

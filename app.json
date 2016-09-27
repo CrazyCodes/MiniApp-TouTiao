@@ -1,0 +1,43 @@
+{
+  "pages":[
+    "pages/information/index/index",
+    "pages/start/start",
+    "pages/logs/logs",
+    "pages/information/detail/detail",
+    "pages/found/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3080c0",
+    "navigationBarTitleText": "CrazyCodes",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":"true"
+  },
+  "tabBar": {
+    "color": "#888888",
+    "selectedColor": "#3080c0",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/information/index/index",
+      "text": "资讯",
+      "iconPath":"images/zixun@2x.png",
+      "selectedIconPath":"images/zixun_selected@2x.png"
+    }, {
+      "pagePath": "pages/found/index/index",
+      "text": "发现",
+      "iconPath":"images/faxian@2x.png",
+      "selectedIconPath":"images/faxian_selected@2x.png"
+    },{
+      "pagePath":"",
+      "text":"关注",
+      "iconPath":"images/xiaoxi@2x.png",
+      "selectedIconPath":"images/xiaoxi_selected@2x.png"
+    },{
+      "pagePath":"",
+      "text":"我",
+      "iconPath":"images/wo@2x.png",
+      "selectedIconPath":"images/wo_selected@2x.png"
+    }]
+  }
+}

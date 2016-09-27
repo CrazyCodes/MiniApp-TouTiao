@@ -1,0 +1,3 @@
+<view class="start" style="display:{{dis}}">
+    <image src="/images/start.png" style="width:100%;height:100%;"></image>
+</view>

@@ -1,0 +1,20 @@
+<view class="navigator">
+    <navigator class="nav nav_top" url="navigate?title=navigate"  hover-class="navigator-hover">
+        <image class="nav_img" src="/images/cateringzone@2x.png"></image>
+        <text>餐饮圈</text>
+    </navigator>
+    <navigator class="nav nav_top" url="redirect?title=redirect"  hover-class="other-navigator-hover">
+        <image class="nav_img" src="/images/nearPerson@2x.png"></image>
+        <text>附近的餐饮人</text>
+    </navigator>
+    <navigator class="nav nav_border" url="redirect?title=redirect"  hover-class="other-navigator-hover">
+        <image class="nav_img" src="/images/extension@2x.png"></image>
+        <text>扩展你的行业人脉</text>
+    </navigator>
+    <navigator class="nav nav_top" url="redirect?title=redirect"  hover-class="other-navigator-hover">
+        <image class="nav_img" src="/images/hang_jia@2x.png"></image>
+        <text>寻求行家的帮助</text>
+    </navigator>
+</view>
+
+
