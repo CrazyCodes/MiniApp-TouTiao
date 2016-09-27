@@ -1,5 +1,6 @@
-WeiXin Small Program - Information Apps
 后面会继续开发完善，并放出相关php接口代码 ～～
+
+WeiXin Small Program - Information Apps
 ------
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/index.gif">
 ------
