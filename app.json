@@ -4,7 +4,8 @@
     "pages/start/start",
     "pages/logs/logs",
     "pages/information/detail/detail",
-    "pages/found/index/index"
+    "pages/found/index/index",
+    "pages/personal/index/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -34,7 +35,7 @@
       "iconPath":"images/xiaoxi@2x.png",
       "selectedIconPath":"images/xiaoxi_selected@2x.png"
     },{
-      "pagePath":"",
+      "pagePath":"pages/personal/index/index",
       "text":"我",
       "iconPath":"images/wo@2x.png",
       "selectedIconPath":"images/wo_selected@2x.png"

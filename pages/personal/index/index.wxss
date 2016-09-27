@@ -1,0 +1,22 @@
+#header{
+    width:100%;
+    height:280px;
+    background: #3080c0;
+    color:#ffffff;
+}
+#header .content{
+    padding-top:90px;
+    text-align: center;
+}
+#header .content image{
+    width:100px;
+    height:100px;
+    border-radius: 100px;
+}
+#header .content .nickname{
+    padding-top:20px;
+}
+#header .content .orther{
+    padding-top:10px;
+    font-size:15px;
+}

@@ -1,0 +1,7 @@
+<view id="header">
+    <view class="content">
+    	<image src="{{userInfo.avatarUrl}}"></image>
+        <view class="nickname">{{userInfo.nickName}}</view>
+        <view class="orther">{{userInfo.province}}</view>
+    </view>
+</view>
