@@ -19,5 +19,7 @@ Template Dir
 * 2、template 目录以模块划分,模块内的页面放在 [模块名称][页面名称] 内
 * 3、通用模版放在 [模块名称] 内
 ------
+Other
+------
 The world is wonderful for code , I Am CrazyCoder
 
