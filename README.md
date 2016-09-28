@@ -7,8 +7,8 @@ Weichat - 仿今日头条
  * 2、新增启动页控制，第一次进去有，后续就没有了。
 
 ------
-<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/index.gif">
-<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/pic3.gif">
+<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/index.gif">
+<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/pic3.gif">
 
 ------
 Project Dir
