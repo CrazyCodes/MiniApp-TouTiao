@@ -1,6 +1,11 @@
 后面会继续开发完善，并放出相关php接口代码 ～～
 
-WeiXin Small Program - Information Apps
+Weichat - 仿今日头条
+------
+更新说明
+ * 1、新增个人中心页面
+ * 2、新增启动页控制，第一次进去有，后续就没有了。
+
 ------
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/index.gif">
 ------
