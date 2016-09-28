@@ -8,8 +8,8 @@ Weichat - 仿今日头条
 
 ------
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/index.gif">
-<img style="width:280px;height:500px;" src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/pic1.png">
-<img style="width:280px;height:500px;" src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/pic2.png">
+<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/pic3.gif">
+
 ------
 Project Dir
 ------
