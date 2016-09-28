@@ -20,3 +20,21 @@
 .height_auto{
   height:100%;
 }
+.flex-wrp{
+    height: 60px;
+    display:flex;
+    background-color: #FFFFFF;
+}
+.flex-item{
+    width: 33.33%;
+    height: 60px;
+    color: #000;
+    padding-top:8px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.two_side{
+    border-left:0.5px solid #ebebeb;  
+    border-right:0.5px solid #ebebeb; 
+}

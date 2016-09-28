@@ -24,16 +24,6 @@
       "text": "资讯",
       "iconPath":"images/zixun@2x.png",
       "selectedIconPath":"images/zixun_selected@2x.png"
-    }, {
-      "pagePath": "pages/found/index/index",
-      "text": "发现",
-      "iconPath":"images/faxian@2x.png",
-      "selectedIconPath":"images/faxian_selected@2x.png"
-    },{
-      "pagePath":"",
-      "text":"关注",
-      "iconPath":"images/xiaoxi@2x.png",
-      "selectedIconPath":"images/xiaoxi_selected@2x.png"
     },{
       "pagePath":"pages/personal/index/index",
       "text":"我",

@@ -1,11 +1,14 @@
+page{
+    background: #ebebeb;
+}
 #header{
     width:100%;
-    height:280px;
+    height:260px;
     background: #3080c0;
     color:#ffffff;
 }
 #header .content{
-    padding-top:90px;
+    padding-top:60px;
     text-align: center;
 }
 #header .content image{
@@ -19,4 +22,39 @@
 #header .content .orther{
     padding-top:10px;
     font-size:15px;
+}
+#section .icon{
+    width:23px;
+    height:23px;
+}
+#section .menus_title{
+    display: block;
+}
+#section .menus_title text{
+    font-size:13px;
+}
+#menus{
+    background: #ffffff;
+    margin-top:10px;
+    height:auto;
+    width:100%;
+}
+#menus .content{
+    height:45px;
+    border-bottom: 0.5px solid #ebebeb; 
+}
+#menus .content .view{
+    float: left;
+
+}
+#menus .content .view text{
+    font-size:15px;
+    line-height:45px;
+    padding-left:20px;
+}
+#menus .content .right{
+    height: 45px;
+    float: right;
+    margin-right:10px;
+    line-height: 45px;
 }

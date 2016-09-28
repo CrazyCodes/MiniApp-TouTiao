@@ -5,3 +5,21 @@
         <view class="orther">{{userInfo.province}}</view>
     </view>
 </view>
+<view id="section">
+    <view class="flex-wrp" style="flex-direction:row;">
+        <view class="flex-item {{item.classes}}" wx:for="{{x_menus}}">
+            <view>
+                <image src="{{item.icon}}" class="icon"></image>
+            </view>
+            <view class="menus_title">
+                <text>{{item.title}}</text>
+            </view>
+        </view>
+    </view>
+</view>
+<view id="menus">
+    <view class="content" wx:for="{{y_menus}}">
+        <view class="view"><text>{{item.title}}</text></view>
+        <view class="right"><image src="/images/rightjian.png" style="width:14px;height:14px"></image></view>
+    </view>
+</view>
