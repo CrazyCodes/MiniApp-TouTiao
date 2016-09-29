@@ -3,6 +3,7 @@
 var root_path = "../../../";
 var index_obj = require(root_path+'function/information_index.js')
 var figure_obj = require(root_path+'function/information_figure.js')
+var api = require(root_path+'api/information_api.js');
 var menu_static = 0;
 
 Page({
