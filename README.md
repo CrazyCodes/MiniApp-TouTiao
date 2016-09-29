@@ -1,7 +1,9 @@
-后面会继续开发完善，并放出相关php接口代码 ～～
+
 
 Weichat - 仿今日头条
 ------
+
+后面会继续开发完善，并放出相关php接口代码 ～～
 
 更新说明
 ------
@@ -15,7 +17,7 @@ Weichat - 仿今日头条
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/pic3.gif">
 
 
-Project Dir
+目录结构
 ------
 ```shell
 |--- api & WebService Api                 数据接口存放目录
@@ -28,14 +30,18 @@ Project Dir
 |--- utils & Public Function              通用函数
 ```
 
-Template Dir
+模板目录
 ------
 * 1、template [模块名称][页面名称]
 * 2、template 目录以模块划分,模块内的页面放在 [模块名称][页面名称] 内
 * 3、通用模版放在 [模块名称] 内
 
+开发工具
+------
 
-Other
+
+
+其他
 ------
 The world is wonderful for code , I Am CrazyCoder
 
