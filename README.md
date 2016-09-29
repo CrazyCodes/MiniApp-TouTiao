@@ -14,7 +14,7 @@ Weichat - 仿今日头条
 
 演示
 ------
-<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/index.gif">
+<img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/pic4.gif">
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/pic3.gif">
 
 
