@@ -2,15 +2,19 @@
 
 Weichat - 仿今日头条
 ------
+
 更新说明
+------
+
  * 1、新增个人中心页面
  * 2、新增启动页控制，第一次进去有，后续就没有了。
 
+演示
 ------
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/index.gif">
 <img src="https://github.com/CrazyCodes/WeiXin-SmallApps-Information/blob/master/test/pic3.gif">
 
-------
+
 Project Dir
 ------
 ```shell
@@ -23,7 +27,7 @@ Project Dir
 |--- uploads & Dowloads Files Dir         公共下载目录
 |--- utils & Public Function              通用函数
 ```
-------
+
 Template Dir
 ------
 * 1、template [模块名称][页面名称]
