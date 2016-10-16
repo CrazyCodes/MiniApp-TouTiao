@@ -12,12 +12,14 @@
   width:100%;
   height:32px;
   background:#f6f5f3;
-  z-index:10000000
+  z-index:10000000;
 }
 .scroll-view_H{
     white-space: nowrap;
     margin-right:10px;
     width: 97%;
+    height: 32px;
+    
 }
 .add_menu{
   float:right;
@@ -59,10 +61,12 @@
   padding-left:10px;
 }
 .nav_font{
+  
   font-size:13px;
   line-height: 32px;
   margin-left:20px;
   display: inherit;
+  float:left;
 }
 .nav_hover{
   font-size: 16px;
