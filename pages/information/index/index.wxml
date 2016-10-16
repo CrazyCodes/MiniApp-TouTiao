@@ -1,10 +1,10 @@
-<import src="/template/information/loads.wxml" />
+<!--<import src="/template/information/loads.wxml" />
 <template is="loads" data="{{hidden:hid}}"/>
 
 <import src="/template/information/index/figure.wxml"/>
-<template is="figure" data="{{display:dis}}"/>
+<template is="figure" data="{{display:dis}}"/>-->
 
-<view class="menu">
+<!--<view class="menu">
     <scroll-view class="scroll-view_H" scroll-x="true" >
         <view id="{{menu_id}}" bindtap="click_menu" wx:for="{{menu}}" wx:for-index="menu_id" wx:for-item="item" class="nav_font">
             <block wx:if="{{menu_id == menuStatic}}"><text class="nav_hover">{{item}}</text></block>
@@ -14,7 +14,7 @@
     <view class="add_menu">
         <image src="/images/swdw.png"></image>
     </view>
-</view>
+</view>-->
 
 <view class="swiper">
     <progress percent="100" stroke-width="2" active color="#3080c0"/>

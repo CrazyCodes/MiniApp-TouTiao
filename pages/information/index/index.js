@@ -7,7 +7,7 @@ var api = require(root_path+'api/information_api.js');
 var menu_static = 0;
 
 Page({
-
+    
   data: {
     hid: false,
     menuStatic:menu_static,
@@ -24,7 +24,16 @@ Page({
     duration: 1000,
     indicatorDots:true,
   },
-
+  onPullDownRefresh: function () {
+    console.log('onPullDownRefresh', new Date())
+  },
+  stopPullDownRefresh: function () {
+    wx.stopPullDownRefresh({
+      complete: function (res) {
+        console.log(res, new Date())
+      }
+    })
+  },
   onReady:function(){
       var that = this;
       setTimeout(function () {

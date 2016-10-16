@@ -7,7 +7,7 @@
     "pages/personal/index/index"
   ],
   "window":{
-    "backgroundTextStyle":"light",
+    "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#3080c0",
     "navigationBarTitleText": "餐饮咖 « 资讯",
     "navigationBarTextStyle":"white",
@@ -23,6 +23,11 @@
       "text": "资讯",
       "iconPath":"images/zixun@2x.png",
       "selectedIconPath":"images/zixun_selected@2x.png"
+    },{
+      "pagePath": "pages/found/index/index",
+      "text": "发现",
+      "iconPath":"images/faxian@2x.png",
+      "selectedIconPath":"images/faxian_selected@2x.png"
     },{
       "pagePath":"pages/personal/index/index",
       "text":"我",
