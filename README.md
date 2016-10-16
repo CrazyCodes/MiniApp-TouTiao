@@ -39,8 +39,14 @@ Weichat - 仿今日头条
 
 开发工具
 ------
-微信Web开发者工具 0.9.092300
+微信Web开发者工具 0.10.101100
 
+下载地址
+------
+最新版本 0.10.101100
+<a href="https://servicewechat.com/wxa-dev-logic/download_redirect?type=x64&from=mpwiki&t=1476434677599">windows 64</a> 、 
+<a href="https://servicewechat.com/wxa-dev-logic/download_redirect?type=ia32&from=mpwiki&t=1476434677599">windows 32</a> 、 
+<a href="https://servicewechat.com/wxa-dev-logic/download_redirect?type=darwin&from=mpwiki&t=1476434677599">mac</a>
 
 其他
 ------
