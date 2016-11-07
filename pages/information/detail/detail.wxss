@@ -48,7 +48,7 @@
     width:115px;
     height:39px;
     float: left;
-    margin-left:10px;
+    margin-left:6px;
     padding:0px;
     text-align: center;
     line-height:39px;
