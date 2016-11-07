@@ -7,10 +7,12 @@ Weichat - 仿今日头条
 > 志同道合的朋友可以Fork，一起撸
 >
 > 官方文档: https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1475052055457
-
+>
+> html 转 wxml php https://github.com/CrazyCodes/WEICHAT-WXML-HTML 暂时只支持转换img标签
 更新说明
 ------
  * 1、修改首页栏目相关问题
+ * 2、修改在微信上资讯详情页发送按钮错位的问题
 
 演示
 ------
